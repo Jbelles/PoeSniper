@@ -1,0 +1,11 @@
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\bin\Debug\netcoreapp2.0\PoeSniper.deps.json
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\bin\Debug\netcoreapp2.0\PoeSniper.runtimeconfig.json
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\bin\Debug\netcoreapp2.0\PoeSniper.runtimeconfig.dev.json
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\bin\Debug\netcoreapp2.0\PoeSniper.dll
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\obj\Debug\netcoreapp2.0\PoeSniper.csprojResolveAssemblyReference.cache
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\obj\Debug\netcoreapp2.0\PoeSniper.csproj.CoreCompileInputs.cache
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\obj\Debug\netcoreapp2.0\PoeSniper.AssemblyInfoInputs.cache
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\obj\Debug\netcoreapp2.0\PoeSniper.AssemblyInfo.cs
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\bin\Debug\netcoreapp2.0\PoeSniper.pdb
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\obj\Debug\netcoreapp2.0\PoeSniper.dll
+C:\Users\Jarret\Documents\Visual Studio 2015\Projects\PoeSniper\src\PoeSniper\obj\Debug\netcoreapp2.0\PoeSniper.pdb
